@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byadav02717
+- 👋 Hi, I’m Bivash Yadav.
 - 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning full stack web development using React, node.js, express and MySQL database.
 - 💞️ I’m looking to collaborate
