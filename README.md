@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bivash Yadav.
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning full stack web development using React, node.js, express and MySQL database.
+- 🌱 I’m currently learning full stack web development using React Native, node.js, express and MongoDB.
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me byadav02717@gmail.com
 
